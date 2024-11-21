@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "chain-demo",
+    "chain-demo-simchain",
+]
